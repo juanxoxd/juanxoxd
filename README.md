@@ -20,6 +20,10 @@
   <img align="center" alt="Juanxo-instagram" height="50"
     src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg">
 </a>
+<a href="https://api.whatsapp.com/send?phone=51956144377&text=Hola" target="_blank" rel="noopener">
+  <img align="center" alt="Juanxo-whatsapp" height="50"
+    src="https://www.logo.wine/a/logo/WhatsApp/WhatsApp-Logo.wine.svg">
+</a>
 
 ## Front-End Technologies:
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
