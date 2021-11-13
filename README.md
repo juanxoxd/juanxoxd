@@ -25,8 +25,16 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="50" src="https://cdn.iconscout.com/icon/free/png-256/react-3-1175109.png" alt="JAVA"/></code>
-<code><img height="50" src="https://cdn.iconscout.com/icon/free/png-256/sass-2752078-2284895.png" alt="JAVA"/></code>
+<code><img height="50" src="https://cdn.iconscout.com/icon/free/png-256/react-3-1175109.png" alt="REACT"/></code>
+<code><img height="50" src="https://cdn.iconscout.com/icon/free/png-256/sass-2752078-2284895.png" alt="SASS"/></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android"/></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C"/></code>
+<code><img height="50" src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress"/></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker"/></a></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"/></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"/></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"/></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"/></code>
 
 
 ## Github Stats
