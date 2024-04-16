@@ -25,6 +25,8 @@
     src="https://www.logo.wine/a/logo/WhatsApp/WhatsApp-Logo.wine.svg">
 </a>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=f9liv6zdctjwpbqic2n9e0xsf&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 ## Front-End Technologies:
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg" alt="Javascript"/></code>
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg" alt="HTML5"/></code>
