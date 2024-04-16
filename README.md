@@ -1,14 +1,14 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Juanxo  <img align="right" alt="GIF" src="https://image.freepik.com/vector-gratis/ilustracion-concepto-programador_114360-2923.jpg" width="400px"/>
 
-##### ✨ I'm a frontend developer, welcome to my profile ✨
+##### ✨ I'm a Full Stack Developer, welcome to my Profile ✨
 - 😄 I’m currently working on never stop learning
 - ⚡ I’m currently learning JavaScript and React
-- 👯 I’m 26 years old
+- 👯 I’m 28 years old
 - 💬 Ask me about
 
 ## My social networks
 
-<a href="https://www.linkedin.com/in/juan-francisco-c-758597172/" target="_blank" rel="noopener">
+<a href="https://www.linkedin.com/in/juanxoxd/" target="_blank" rel="noopener">
   <img align="center" alt="Juanxo-linkedin" height="50"
     src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg">
 </a>
@@ -24,6 +24,8 @@
   <img align="center" alt="Juanxo-whatsapp" height="50"
     src="https://www.logo.wine/a/logo/WhatsApp/WhatsApp-Logo.wine.svg">
 </a>
+
+## Music
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=f9liv6zdctjwpbqic2n9e0xsf&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
