@@ -3,7 +3,7 @@
 ##### ✨ I'm a Full Stack Developer, welcome to my Profile ✨
 - 😄 I’m currently working on never stop learning
 - ⚡ I’m currently learning JavaScript and React
-- 👯 I’m 28 years old
+- 👯 I’m 29 years old
 - 💬 Ask me about
 
 ## My social networks
